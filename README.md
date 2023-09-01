@@ -7,6 +7,7 @@ cd iw2023ittepic
 git add .
 git commit -m "Initial commit"
 
+--------------------------------------------------------------------------
 | Nombre                            | Github                             |
 |-----------------------------------|------------------------------------|
 | Miguel Israel De Robles Ramirez   | https://github.com/MDeRobles       |
