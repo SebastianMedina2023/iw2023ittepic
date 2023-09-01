@@ -6,3 +6,5 @@ git clone https://github.com/SebastianMedina2023/iw2023ittepic.git
 cd iw2023ittepic
 git add .
 git commit -m "Initial commit"
+
+hola mundo
