@@ -19,6 +19,7 @@ git commit -m "Agregar archivo 1.txt"
 
 -- Agregando un tag --
 git tag v0.1
+git push --tags
 
 --------------------------------------------------------------------------
 | Nombre                            | Github                             |
