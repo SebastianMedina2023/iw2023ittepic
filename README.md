@@ -1,21 +1,24 @@
-<!-- Clonar repositorio -->
+-- Clonar repositorio --
 cd C:\Users\raspi\Downloads\Interfaces Web\Practica 1
 git clone https://github.com/SebastianMedina2023/iw2023ittepic.git
 
-<!-- Hacer un commit -->
+-- Hacer un commit --
 cd iw2023ittepic
 git add .
 git commit -m "Initial commit"
 
-<!-- Ignorar archivos-->
+-- Ignorar archivos --
 touch .gitignore
 git add .gitignore
 git commit -m "Agregando el gitignore"
 
-<!-- Añadir archivo 1.txt-->
+-- Añadir archivo 1.txt --
 touch 1.txt
 git add 1.txt
 git commit -m "Agregar archivo 1.txt"
+
+-- Agregando un tag --
+git tag v0.1
 
 --------------------------------------------------------------------------
 | Nombre                            | Github                             |
