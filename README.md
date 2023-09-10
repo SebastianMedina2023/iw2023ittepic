@@ -7,6 +7,16 @@ cd iw2023ittepic
 git add .
 git commit -m "Initial commit"
 
+<!-- Ignorar archivos-->
+touch .gitignore
+git add .gitignore
+git commit -m "Agregando el gitignore"
+
+<!-- Añadir archivo 1.txt-->
+touch 1.txt
+git add 1.txt
+git commit -m "Agregar archivo 1.txt"
+
 --------------------------------------------------------------------------
 | Nombre                            | Github                             |
 |-----------------------------------|------------------------------------|
